@@ -47,19 +47,19 @@ I specialize in **Laravel** for backend development and love building modern, re
 Here are some of my highlighted works 👇
 
 <p align="center">
-  <a href="https://github.com/Asjadgit/krayin-voip">
+  <a href="https://github.com/Asjadgit/Mini_Inventory">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=krayin-voip&theme=radical" />
   </a>
-  <a href="https://github.com/Asjadgit/vue-laravel-hybrid">
+  <a href="https://github.com/Asjadgit/Appointments">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=vue-laravel-hybrid&theme=radical" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Asjadgit/event-booking">
+  <a href="https://github.com/Asjadgit/LetSky">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=event-booking&theme=radical" />
   </a>
-  <a href="https://github.com/Asjadgit/inventory-system">
+  <a href="https://github.com/Asjadgit/laravel-websockets">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=inventory-system&theme=radical" />
   </a>
 </p>
