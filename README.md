@@ -1,8 +1,6 @@
 <!-- Typing Animation Header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF5733&width=800&lines=Hi%2C+I'm+Asjad+Naveed!;Full+Stack+Developer+(Laravel);Laravel+%7C+Vue.js+%7C+React.js+Enthusiast;Always+Learning+New+Technologies+🚀)](https://git.io/typing-svg)
 
-# Asjad Naveed
-
 ### 💻 Full Stack Developer (Laravel)
 
 Passionate **Full Stack Developer** with **1.5+ years of experience** crafting scalable and high-performance web applications.  
