@@ -1,7 +1,7 @@
 <!-- Typing Animation Header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF5733&width=800&lines=Hi%2C+I'm+Asjad+Naveed!;Full+Stack+Developer+(Laravel);Laravel+%7C+Vue.js+%7C+React.js+Enthusiast;Always+Learning+New+Technologies+🚀)](https://git.io/typing-svg)
 
-# 👋 Hi, I'm Asjad Naveed
+# Asjad Naveed
 
 ### 💻 Full Stack Developer (Laravel)
 
@@ -41,6 +41,32 @@ I specialize in **Laravel** for backend development and love building modern, re
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asjadgit)
 [![Cloudways](https://img.shields.io/badge/Cloudways-2C39BD?style=for-the-badge&logo=cloudways&logoColor=white)](https://www.cloudways.com/)
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
+
+---
+
+## 📦 Featured Projects  
+
+Here are some of my highlighted works 👇
+
+<p align="center">
+  <a href="https://github.com/Asjadgit/krayin-voip">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=krayin-voip&theme=radical" />
+  </a>
+  <a href="https://github.com/Asjadgit/vue-laravel-hybrid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=vue-laravel-hybrid&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Asjadgit/event-booking">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=event-booking&theme=radical" />
+  </a>
+  <a href="https://github.com/Asjadgit/inventory-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=inventory-system&theme=radical" />
+  </a>
+</p>
+
+> 🧩 *You can edit the above repo names or add new ones anytime — GitHub auto-updates these cards.*
 
 ---
 
