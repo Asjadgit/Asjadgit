@@ -1,3 +1,6 @@
+<!-- Typing Animation Header -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF5733&width=800&lines=Hi%2C+I'm+Asjad+Naveed!;Full+Stack+Developer+(Laravel);Laravel+%7C+Vue.js+%7C+React.js+Enthusiast;Always+Learning+New+Technologies+🚀)](https://git.io/typing-svg)
+
 # 👋 Hi, I'm Asjad Naveed
 
 ### 💻 Full Stack Developer (Laravel)
@@ -16,14 +19,28 @@ I specialize in **Laravel** for backend development and love building modern, re
 
 ## 💡 Tech Stack
 
-### 🖥️ Frontend
-`HTML5` • `CSS3` • `Tailwind CSS` • `JavaScript` • `Vue.js` • `React.js`
+### 🖥️ Frontend  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 
-### ⚙️ Backend
-`Laravel` • `PHP` • `RESTful APIs`
+---
 
-### 🧰 Tools & Platforms
-`Git` • `GitHub` • `Cloudways` • `DigitalOcean` • `Composer` • `NPM`
+### ⚙️ Backend  
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white)](https://restfulapi.net/)
+
+---
+
+### 🧰 Tools & Platforms  
+[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asjadgit)
+[![Cloudways](https://img.shields.io/badge/Cloudways-2C39BD?style=for-the-badge&logo=cloudways&logoColor=white)](https://www.cloudways.com/)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
 
 ---
 
@@ -37,7 +54,7 @@ I specialize in **Laravel** for backend development and love building modern, re
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Asjad%20Naveed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asjad-naveed-702a39178)
 [![GitHub](https://img.shields.io/badge/GitHub-Asjadgit-black?style=for-the-badge&logo=github)](https://github.com/Asjadgit)
 
