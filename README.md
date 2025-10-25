@@ -56,9 +56,6 @@ Here are some of my highlighted works 👇
 </p>
 
 <p align="center">
-  <a href="https://github.com/Asjadgit/LetSky">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=LetSky&theme=radical" />
-  </a>
   <a href="https://github.com/Asjadgit/laravel-websockets">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=laravel-websockets&theme=radical" />
   </a>
