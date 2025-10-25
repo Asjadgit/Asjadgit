@@ -48,23 +48,23 @@ Here are some of my highlighted works 👇
 
 <p align="center">
   <a href="https://github.com/Asjadgit/Mini_Inventory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=krayin-voip&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=Mini_Inventory&theme=radical" />
   </a>
   <a href="https://github.com/Asjadgit/Appointments">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=vue-laravel-hybrid&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=Appointments&theme=radical" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Asjadgit/LetSky">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=event-booking&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=LetSky&theme=radical" />
   </a>
   <a href="https://github.com/Asjadgit/laravel-websockets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=inventory-system&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=laravel-websockets&theme=radical" />
   </a>
 </p>
 
-> 🧩 *You can edit the above repo names or add new ones anytime — GitHub auto-updates these cards.*
+> 🧩 *These cards are clickable and auto-update with stars & description.*
 
 ---
 
