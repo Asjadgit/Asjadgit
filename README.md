@@ -12,7 +12,7 @@ With hands-on experience in **Laravel, multi-tenant systems, VoIP integrations (
 - 🏗 Design scalable backend architectures using Laravel
 - 🔐 Implement role-based systems & visibility control
 - ☁️ Build SaaS-ready multi-tenant applications
-- 📡 Integrate WhatsApp using Twilio API
+- 📡 Integrate WhatsApp in CRM systems using Twilio
 - ⚡ Develop dynamic admin panels with Vue.js
 - 🧩 Write clean, reusable components & service-based logic
 
@@ -50,30 +50,28 @@ With hands-on experience in **Laravel, multi-tenant systems, VoIP integrations (
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Asjadgit/Mini_Inventory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=Mini_Inventory&theme=radical&cache_seconds=1800" />
-  </a>
-  <a href="https://github.com/Asjadgit/Appointments">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=Appointments&theme=radical&cache_seconds=1800" />
-  </a>
+
+<a href="https://github.com/Asjadgit/Mini_Inventory">
+  <img src="https://img.shields.io/badge/Mini_Inventory-Project-blue?style=for-the-badge" alt="Mini Inventory"/>
+  <br>⭐ ![Stars](https://img.shields.io/github/stars/Asjadgit/Mini_Inventory?style=social)
+</a>
+
+<a href="https://github.com/Asjadgit/Appointments">
+  <img src="https://img.shields.io/badge/Appointments-Project-green?style=for-the-badge" alt="Appointments"/>
+  <br>⭐ ![Stars](https://img.shields.io/github/stars/Asjadgit/Appointments?style=social)
+</a>
+
+<a href="https://github.com/Asjadgit/laravel-websockets">
+  <img src="https://img.shields.io/badge/Laravel_Websockets-Project-red?style=for-the-badge" alt="Laravel Websockets"/>
+  <br>⭐ ![Stars](https://img.shields.io/github/stars/Asjadgit/laravel-websockets?style=social)
+</a>
+
+<a href="https://github.com/Asjadgit/php-mvc-crud">
+  <img src="https://img.shields.io/badge/PHP_MVC_CRUD-Project-orange?style=for-the-badge" alt="PHP MVC CRUD"/>
+  <br>⭐ ![Stars](https://img.shields.io/github/stars/Asjadgit/php-mvc-crud?style=social)
+</a>
+
 </p>
-
-<p align="center">
-  <a href="https://github.com/Asjadgit/laravel-websockets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=laravel-websockets&theme=radical&cache_seconds=1800" />
-  </a>
-  <a href="https://github.com/Asjadgit/php-mvc-crud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadgit&repo=php-mvc-crud&theme=radical&cache_seconds=1800" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Activity
-
-![Asjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asjadgit&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asjadgit&layout=compact&theme=radical)
 
 ---
 
@@ -89,7 +87,7 @@ With hands-on experience in **Laravel, multi-tenant systems, VoIP integrations (
 
 ## 🎯 Impact & Achievements
 
-- 🚀 **Multi-Tenant Architecture:** Designed and implemented a **multi-tenant system in Krayin Open Source** by developing a custom master package, allowing each tenant to have its **own subdomain and dedicated database**.  
+- 🚀 **Multi-Tenant Architecture:** Designed and implemented a **multi-tenant system for Krayin** by developing a custom master package, allowing each tenant to have its **own subdomain and dedicated database**.  
 - 🌐 **Workspace Management:** Enabled **one user to manage multiple workspaces**, similar to Pipedrive, improving flexibility for SaaS clients.  
 - ☁️ **Cloud Integration:** Deployed and managed **DigitalOcean Managed Databases** for scalable and secure multi-tenant deployments.  
 - ⚡ **Scalable Backend:** Architected a system capable of supporting multiple tenants with isolated data while maintaining performance and maintainability.  
