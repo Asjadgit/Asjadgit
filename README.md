@@ -23,31 +23,15 @@ engineering problems and designing clean, extensible solutions.
 
 ## 🛠 Tech Stack
 
-### Backend
-- **Laravel**
-- PHP
-- REST APIs
-- Event-Driven Architecture
-- Repository Pattern
-- Multi-Tenancy Systems
-- WebSockets
-
-### Frontend
-- Vue.js
-- React.js
-- TailwindCSS
-- Blade Component Systems
-- Dynamic UI Builders
-
-### Infrastructure & DevOps
-- DigitalOcean
-- Cloudways
-- Git & GitHub
-- CI/CD Pipeline
-
-### Databases
-- MySQL
-- PostgreSQL
+| Backend | Frontend | Infrastructure & DevOps | Databases |
+|---------|----------|------------------------|-----------|
+| Laravel | Vue.js | DigitalOcean | MySQL |
+| PHP | React.js | Cloudways | PostgreSQL |
+| REST APIs | TailwindCSS | Git & GitHub | |
+| Event-Driven Architecture | Blade Component Systems | CI/CD Pipeline | |
+| Repository Pattern | Dynamic UI Builders | Cloud Storage | |
+| Multi-Tenancy Systems | | | |
+| WebSockets | | | |
 
 ---
 
