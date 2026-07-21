@@ -21,30 +21,6 @@ engineering problems and designing clean, extensible solutions.
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Asjadgit/Asjadgit/main/github-metrics.svg" width="100%" alt="GitHub Metrics"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Asjadgit&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asjadgit&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Asjadgit&theme=tokyo-night" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asjadgit&layout=compact&theme=tokyonight&langs_count=8" />
-
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Asjadgit&theme=algolia&column=3&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 | Backend | Frontend | Infrastructure & DevOps | Databases |
