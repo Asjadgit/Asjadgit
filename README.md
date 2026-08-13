@@ -104,7 +104,7 @@ engineering problems and designing clean, extensible solutions.
 
 - 💼 LinkedIn: [Asjad Naveed](https://www.linkedin.com/in/asjad-naveed-702a39178)  
 - 🧑‍💻 GitHub: [Asjadgit](https://github.com/Asjadgit)
-
+- 🌐 Portfolio: asjadnaveed.com
 ---
 
 > "Clean architecture, scalable systems, and elegant solutions."
